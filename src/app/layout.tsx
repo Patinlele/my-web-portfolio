@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     "Portfolio Nama Kamu — pengembang web serta kreator video, foto, dan drone. Lihat karya, pengalaman, dan cara menghubungi saya.",
   keywords: ["portfolio", "web developer", "videografi", "fotografi", "drone"],
   openGraph: {
-    title: "Nama Kamu — Developer & Creative",
+    title: "Muhammad Faathin Naufal - Multimedia & Creative",
     description:
       "Pengembang web serta kreator video, foto, dan drone. Lihat karya dan pengalaman saya.",
     type: "website",
