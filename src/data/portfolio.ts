@@ -14,7 +14,7 @@ export const profile = {
   socials: {
     github: "https://github.com/Patinlele",
     linkedin: "https://www.linkedin.com/in/muhammad-faathin-naufal-0b0924316",
-    instagram: "",
+    instagram: "https://instagram.com/_fvthn",
     twitter: "",
   },
   resumeUrl: "", //todo belom ada cv
