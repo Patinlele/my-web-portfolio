@@ -9,18 +9,15 @@ export const profile = {
   tagline:
     "Saya menggabungkan teknologi dan kreativitas — membangun aplikasi web, sekaligus menangkap momen lewat kamera, video, dan drone.",
   location: "Indonesia",
-  email: "emailkamu@example.com", // TODO: ganti dengan email kamu
-  // Foto profil: taruh file di public/profil.jpg lalu isi "/profil.jpg" di bawah.
-  // Kalau dibiarkan "" maka tampil placeholder inisial nama.
+  email: "mfaathinn@gmail.com",
   photo: "",
-  // TODO: ganti dengan link sosial media kamu (kosongkan string "" untuk menyembunyikan ikon)
   socials: {
     github: "https://github.com/Patinlele",
     linkedin: "https://www.linkedin.com/in/muhammad-faathin-naufal-0b0924316",
     instagram: "",
     twitter: "",
   },
-  resumeUrl: "", // TODO: isi link Google Drive / PDF CV kamu (opsional)
+  resumeUrl: "", //todo belom ada cv
 };
 
 export const about = {
@@ -28,7 +25,7 @@ export const about = {
     "Halo! Saya seorang kreator multidisiplin yang senang mengubah ide menjadi karya nyata — baik dalam bentuk produk digital maupun karya visual.",
     "Di sisi teknologi, saya fokus pada pengembangan web modern dengan React/Next.js dan Node.js. Di sisi kreatif, saya menekuni videografi, fotografi, dan menerbangkan drone untuk menangkap sudut pandang yang tidak biasa.",
   ],
-  // Skill dikelompokkan per kategori — tambah/hapus sesuai keahlianmu
+
   skillGroups: [
     {
       category: "Teknologi",
@@ -76,7 +73,7 @@ type Project = {
 };
 export default Project
 
-// TODO: ganti dengan karya-karya aslimu (web, video, foto, drone, dsb.)
+
 export const projects: Project[] = [
   {
     title: "Website Portfolio",
