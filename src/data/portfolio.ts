@@ -7,7 +7,7 @@ export const profile = {
   name: "Muhammad Faathin Naufal",
   role: "Multimedia & Developer",
   tagline:
-    "Saya menggabungkan teknologi dan kreativitas — membangun aplikasi web, sekaligus menangkap momen lewat kamera, video, dan drone.",
+    "Perkenalkan saya Faathin, seorang mahasiswa jurusan Informatika di Universitas Multimedia Nusantara yang suka menggabungkan teknologi dan kreativitas",
   location: "Indonesia",
   email: "mfaathinn@gmail.com",
   photo: "/profilePic.jpg",
