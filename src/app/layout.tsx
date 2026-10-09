@@ -10,7 +10,7 @@ const sfLike = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Nama Kamu — Developer & Creative", // TODO: samakan dengan profile.name & role
+  title: "Muhammad Faathin Naufal - Multimedia & Creative",
   description:
     "Portfolio Nama Kamu — pengembang web serta kreator video, foto, dan drone. Lihat karya, pengalaman, dan cara menghubungi saya.",
   keywords: ["portfolio", "web developer", "videografi", "fotografi", "drone"],

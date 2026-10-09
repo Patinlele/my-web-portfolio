@@ -1,7 +1,4 @@
-// ============================================================
-//  SEMUA KONTEN WEBSITE PORTFOLIO KAMU ADA DI FILE INI.
-//  Cukup edit file ini — tidak perlu menyentuh komponen lain.
-// ============================================================
+//Main nya
 
 export const profile = {
   name: "Muhammad Faathin Naufal",
