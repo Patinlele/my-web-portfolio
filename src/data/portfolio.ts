@@ -10,7 +10,7 @@ export const profile = {
     "Saya menggabungkan teknologi dan kreativitas — membangun aplikasi web, sekaligus menangkap momen lewat kamera, video, dan drone.",
   location: "Indonesia",
   email: "mfaathinn@gmail.com",
-  photo: "",
+  photo: "/profilePic.jpg",
   socials: {
     github: "https://github.com/Patinlele",
     linkedin: "https://www.linkedin.com/in/muhammad-faathin-naufal-0b0924316",
