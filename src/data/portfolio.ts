@@ -4,8 +4,8 @@
 // ============================================================
 
 export const profile = {
-  name: "Nama Kamu", // TODO: ganti dengan namamu
-  role: "Developer & Creative", // TODO: ganti dengan profesi/role kamu
+  name: "Muhammad Faathin Naufal",
+  role: "Developer & Creative",
   tagline:
     "Saya menggabungkan teknologi dan kreativitas — membangun aplikasi web, sekaligus menangkap momen lewat kamera, video, dan drone.",
   location: "Indonesia",
