@@ -84,7 +84,7 @@ export const projects: Project[] = [
     emoji: "💻",
   },
   {
-    title: "Video Dokumentasi Event",
+    title: "Videography",
     description:
       "Dokumentasi video sebuah event — mulai dari pengambilan gambar, penyuntingan, hingga color grading.",
     category: "Video",
@@ -95,7 +95,7 @@ export const projects: Project[] = [
     emoji: "🎬",
   },
   {
-    title: "Aerial Photography",
+    title: "Drone",
     description:
       "Kumpulan foto udara dengan drone yang menangkap lanskap dan sudut pandang dari ketinggian.",
     category: "Drone",
@@ -106,7 +106,7 @@ export const projects: Project[] = [
     emoji: "🚁",
   },
   {
-    title: "Seri Foto Perjalanan",
+    title: "Photography",
     description:
       "Proyek fotografi personal yang mendokumentasikan perjalanan — momen, budaya, dan pemandangan.",
     category: "Foto",
