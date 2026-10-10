@@ -223,6 +223,14 @@ export const experiences: Experience[] = [
       "Bertanggung jawab atas dokumentasi foto dan video kegiatan organisasi.",
     type: "organisasi",
   },
+  {
+    role: "Operator",
+    organization: "Inspiria.co Broadcasting & Media Production",
+    period: "2024 — 2026",
+    description:
+        "Mengoperasikan berbagai alat multimedia di lapangan.",
+    type: "kerja",
+  },
 ];
 
 export const navLinks = [
