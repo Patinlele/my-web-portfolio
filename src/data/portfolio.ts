@@ -224,7 +224,7 @@ export const experiences: Experience[] = [
     type: "organisasi",
   },
   {
-    role: "Operator",
+    role: "Member Staff",
     organization: "Inspiria.co Broadcasting & Media Production",
     period: "2024 — 2026",
     description:
