@@ -216,9 +216,9 @@ export const experiences: Experience[] = [
     type: "kerja",
   },
   {
-    role: "Anggota Divisi Media",
-    organization: "Nama Organisasi",
-    period: "2021 — 2022",
+    role: "Koordinator Creative & Design",
+    organization: "HMIF",
+    period: "2024 — 2026",
     description:
       "Bertanggung jawab atas dokumentasi foto dan video kegiatan organisasi.",
     type: "organisasi",
